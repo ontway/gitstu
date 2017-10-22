@@ -10,12 +10,13 @@ public class TwoSum {
 		int d=4;
 		bbb
 		System.out.println(a);
-		int f=4;
+		int f=2;
 		System.out.println(b);
 		int e=7;
 		ccc
 		ddd
 		System.out.println(c);
+		int g=4;
 	}
 
 	public int[] twoSum(int[] nums, int target) {
