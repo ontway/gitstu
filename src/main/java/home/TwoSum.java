@@ -10,6 +10,8 @@ public class TwoSum {
 		int a=1;
 		aaa
 		ddd
+		ddd
+		eee
 		int a=1;
 		eee
 		int b=2;
