@@ -35,6 +35,9 @@ public class TwoSum {
 
 		 int[] twonums={i1,j1};
 		 return twonums;}
+		 int aa=1;
+		 int bb=2;
+		 int cc=3;
 
 		 
     }
