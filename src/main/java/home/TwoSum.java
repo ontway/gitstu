@@ -6,6 +6,7 @@ public class TwoSum {
 		bbb
 		ccc
 		int a=1;
+		aaa
 		int b=2;
 		int c=3;
 		int e=5;
