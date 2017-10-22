@@ -1,4 +1,6 @@
-public class Solution {
+package home;
+
+public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int i1=0,j1=0;
 
