@@ -7,7 +7,9 @@ public class TwoSum {
 		int c=3;
 		int d=4;
 		System.out.println(a);
+		int f=4;
 		System.out.println(b);
+		int e=7;
 		System.out.println(c);
 	}
 
