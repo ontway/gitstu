@@ -5,6 +5,7 @@ public class TwoSum {
 		int a=1;
 		int b=2;
 		int c=3;
+		int e=5;
 		int d=4;
 		System.out.println(a);
 		int f=4;
