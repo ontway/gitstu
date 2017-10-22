@@ -4,7 +4,10 @@ import com.sun.deploy.uitoolkit.impl.awt.AWTAppletAdapter;
 
 public class TwoSum {
 	public static void main(String[] args) {
-		aaa ss
+		aaa ss dd
+		aaa
+		aa
+		aa
 		bbb
 		ccc
 		int a=1;
