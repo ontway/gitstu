@@ -10,6 +10,7 @@ public class TwoSum {
 		System.out.println(a);
 		int f=2;
 		System.out.println(b);
+		int e=7;
 		System.out.println(c);
 		int g=4;
 	}
@@ -35,6 +36,9 @@ public class TwoSum {
 
 		 int[] twonums={i1,j1};
 		 return twonums;}
+		 int aa=1;
+		 int bb=2;
+		 int cc=3;
 
 		 
     }
