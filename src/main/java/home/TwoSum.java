@@ -1,7 +1,16 @@
 package home;
 
 public class TwoSum {
-    public int[] twoSum(int[] nums, int target) {
+	public static void main(String[] args) {
+		int a=1;
+		int b=2;
+		int c=3;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+	}
+
+	public int[] twoSum(int[] nums, int target) {
         int i1=0,j1=0;
 
 		for(int i=0;i<nums.length;i++){
@@ -19,13 +28,9 @@ public class TwoSum {
 		        break;}
 		    
 		    }
-		
-		// if(nums[j1]+nums[i1]==target){
+
 		 int[] twonums={i1,j1};
 		 return twonums;}
-		// else {
-		//	 System.out.println("error");
-		//	 int[] twonums={0,0};
-		//	 return twonums;
+
 		 
     }
